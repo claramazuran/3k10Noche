@@ -1,4 +1,3 @@
-//me encapsula una parte de un sistema operativo, que es linux
 FROM alpine:latest as build
 
 RUN apk update
